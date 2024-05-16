@@ -1,0 +1,8 @@
+
+rowaida,pass,email@,bio,false,0,0
+rowaida2,pass2,email@,hi,true,0,0
+user,pass1,user1@gmail.com,hi,iam btngan,true,0,0
+dalia,1970,dalia@yaho.com,my dear little roro ,false,0,0
+Emado,Emadk,emadk@yaho.com,Test,true,0,0
+rowaida emad,pass4,roro@gmail.com,hhehee,true,0,0
+rowaida emad khalaf,roro,roro@mail,tired,true,0,0
